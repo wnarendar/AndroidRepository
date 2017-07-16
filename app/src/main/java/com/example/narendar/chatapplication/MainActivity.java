@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 import com.example.narendar.chatapplication.databinding.ActivityMainBinding;
 import com.example.narendar.chatapplication.db.queries.InsertQueries;
+import com.example.narendar.chatapplication.model.Message;
 
 import java.util.ArrayList;
 import java.util.List;

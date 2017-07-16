@@ -4,11 +4,10 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.util.Log;
 
-import com.example.narendar.chatapplication.Message;
+import com.example.narendar.chatapplication.model.Message;
 import com.example.narendar.chatapplication.db.DatabaseHandler;
 import com.example.narendar.chatapplication.db.tables.MESSAGE_TBL;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**

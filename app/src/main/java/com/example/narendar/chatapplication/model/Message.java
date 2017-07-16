@@ -1,4 +1,4 @@
-package com.example.narendar.chatapplication;
+package com.example.narendar.chatapplication.model;
 
 /**
  * Created by Naren Wadhwa on 7/15/2017.
